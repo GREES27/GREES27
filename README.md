@@ -1,6 +1,6 @@
 
 ## Hi, I'm Gemma 👋
-## 🔬 PhD Researcher @ Houston Methodist Research Institute | Tumour Microenvironment & Cancer Biology
+🔬 PhD Researcher @ Houston Methodist Research Institute | Tumour Microenvironment & Cancer Biology
 ## 🧬 I use single-cell RNA sequencing (scRNA-seq) to investigate the cellular and molecular dynamics of the tumour microenvironment — ## bridging wet lab biology with computational analysis
 ## 💻 Computational Skills:
 
