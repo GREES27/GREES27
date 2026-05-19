@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**GREES27/GREES27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Hi, I'm Gemma 👋
 ## 🔬 PhD Researcher @ Houston Methodist Research Institute | Tumour Microenvironment & Cancer Biology
